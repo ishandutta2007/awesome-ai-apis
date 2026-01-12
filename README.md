@@ -1,4 +1,8 @@
-# Awesome AI APIs
+<!--
+description: A collaborative and community-maintained list of publicly available AI APIs for developers, researchers, and enthusiasts, covering LLMs, image generation, speech, vision, and more.
+keywords: AI APIs, machine learning APIs, artificial intelligence, LLM APIs, image generation APIs, speech APIs, vision APIs, open-source AI, free AI APIs, developer tools, AI integrations, awesome list
+-->
+# Awesome AI APIs 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/awesome-ai-apis?style=social)](https://github.com/ishandutta2007/awesome-ai-apis/stars/0) [![GitHub contributors](https://img.shields.io/github/contributors/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/graphs/contributors) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -8,7 +12,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 
 > **Note**: APIs evolve rapidly. Check [issues](https://github.com/ishandutta2007/awesome-ai-apis/issues) for updates. Contributions welcome!
 
-## Table of Contents
+## Table of Contents 📖
 
 - [LLM & Chat APIs](#llm--chat-apis)
 - [Image Generation](#image-generation)
@@ -18,9 +22,9 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 - [Agents & Tools](#agents--tools)
 - [Other AI](#other-ai)
 
-**Back to top** • [Contribute](#contributing) • [License](#license)
+**Back to top** ⬆️ • [Contribute](#contributing) • [License](#license)
 
-## LLM & Chat APIs
+## LLM & Chat APIs 💬
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -35,9 +39,9 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Together AI](https://docs.together.ai/docs) | 300+ open models (Qwen, DeepSeek). Free credits. | `apiKey` | Yes | Yes |
 | [DeepInfra](https://deepinfra.com/docs) | Affordable hosting for Llama, Mistral. Pay-per-use. | `apiKey` | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Image Generation
+## Image Generation 🖼️
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -45,9 +49,9 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Replicate](https://replicate.com/docs) | Run Flux, SDXL, custom models. $5 free credits. | `apiKey` | Yes | Yes |
 | [OpenAI DALL-E](https://platform.openai.com/docs/api-reference/images) | DALL-E 3 for high-quality images. | `apiKey` | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Speech & Audio
+## Speech & Audio 🎤
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -55,9 +59,9 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [ElevenLabs](https://elevenlabs.io/docs/api-reference) | Voice cloning, TTS. Free tier. | `apiKey` | Yes | Yes |
 | [Deepgram](https://developers.deepgram.com/docs) | Real-time STT with diarization. | `apiKey` | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Vision & Multimodal
+## Vision & Multimodal 👀
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -65,9 +69,9 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Google Gemini Vision](https://ai.google.dev/gemini-api/docs/vision) | Multimodal reasoning. | `apiKey` | Yes | Yes |
 | [Hugging Face Inference](https://huggingface.co/docs/inference-endpoints) | Llava, Bakllava for open vision models. Free limited. | `apiKey` | Yes | Unknown |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Embeddings & Vector DB
+## Embeddings & Vector DB 🧠
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -75,26 +79,26 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Cohere Embed](https://docs.cohere.com/docs/embed) | Multilingual embeddings. | `apiKey` | Yes | Yes |
 | [Pinecone](https://docs.pinecone.io/docs/overview) | Vector DB with hybrid search. Free starter. | `apiKey` | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Agents & Tools
+## Agents & Tools 🛠️
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
 | [OpenAI Assistants](https://platform.openai.com/docs/assistants/overview) | Custom agents with tools/files. | `apiKey` | Yes | Yes |
 | [Replicate Agents](https://replicate.com/docs/guides/agents) | Run agentic workflows. | `apiKey` | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## Other AI
+## Other AI ✨
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
 | [Hugging Face Hub](https://huggingface.co/docs/hub/en/api) | 1M+ models for tasks like NER, translation. | `apiKey` (opt) | Yes | Yes |
 
-**Back to Index**
+**Back to Index** 👆 👆
 
-## How to Contribute
+## How to Contribute 🤝
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
@@ -108,7 +112,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ![Contributors](https://img.shields.io/github/contributors/ishandutta2007/awesome-ai-apis)  
 ![Issues](https://img.shields.io/github/issues/ishandutta2007/awesome-ai-apis)
 
-## License
+## License 📜
 
 This repo is [MIT licensed](LICENSE).
 
@@ -118,7 +122,7 @@ This repo is [MIT licensed](LICENSE).
 
 ---
 
-## Other Files & Folders
+## Other Files & Folders 📁
 
 ### Folder Structure
 ```

@@ -1,6 +1,6 @@
-# Contributing to Awesome AI APIs
+# Contributing to Awesome AI APIs 📝 📝
 
-## Guidelines
+## Guidelines ✅
 - **API Requirements**: Public, documented, AI-focused (LLM, vision, etc.). Prefer free/open tiers.
 - **Table Format**: | [API](url) | Description (1 sentence) | apiKey/No/OAuth | Yes/No | Yes/No/Unknown |
 - **No Dead Links**: Test endpoints.
@@ -11,7 +11,7 @@
   3. Run `scripts/check-links.py` (add later)
   4. PR with changelog.
 
-## Code of Conduct
+## Code of Conduct ❤️
 Be respectful. No spam.
 
-Thanks! 🚀
+Thanks for contributing! ✨
