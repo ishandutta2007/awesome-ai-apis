@@ -38,6 +38,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Groq](https://console.groq.com/docs/api-reference) | Ultra-fast inference for Llama, Mixtral, Gemma. 1000 req/day free. | `apiKey` | Yes | Yes |
 | [Together AI](https://docs.together.ai/docs) | 300+ open models (Qwen, DeepSeek). Free credits. | `apiKey` | Yes | Yes |
 | [DeepInfra](https://deepinfra.com/docs) | Affordable hosting for Llama, Mistral. Pay-per-use. | `apiKey` | Yes | Yes |
+| [CoderPlan](https://coderplan.ai) | Unified LLM API gateway for Claude, GPT, Gemini, DeepSeek, Grok. OpenAI-compatible. Pay-per-use with Alipay/WeChat. | `apiKey` | Yes | Yes |
 
 **Back to Index** 👆 👆
 
