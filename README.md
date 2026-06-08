@@ -4,7 +4,7 @@ keywords: AI APIs, machine learning APIs, artificial intelligence, LLM APIs, ima
 -->
 # Awesome AI APIs 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/awesome-ai-apis?style=social)](https://github.com/ishandutta2007/awesome-ai-apis/stars/0) [![GitHub contributors](https://img.shields.io/github/contributors/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/graphs/contributors) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/awesome-ai-apis?style=social)](https://github.com/ishandutta2007/awesome-ai-apis/stars/0) [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/awesome-ai-apis?style=social)](https://github.com/ishandutta2007/awesome-ai-apis/network/members) [![GitHub contributors](https://img.shields.io/github/contributors/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/pulls) [![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/awesome-ai-apis)](https://github.com/ishandutta2007/awesome-ai-apis/commits/main) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collaborative list of **publicly available AI APIs** for developers, researchers, and enthusiasts. Manually curated and maintained by the community. Inspired by [public-apis/public-apis](https://github.com/public-apis/public-apis).
 
@@ -40,7 +40,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [DeepInfra](https://deepinfra.com/docs) | Affordable hosting for Llama, Mistral. Pay-per-use. | `apiKey` | Yes | Yes |
 | [CoderPlan](https://coderplan.ai) | Unified LLM API gateway for Claude, GPT, Gemini, DeepSeek, Grok. OpenAI-compatible. Pay-per-use with Alipay/WeChat. | `apiKey` | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Image Generation 🖼️
 
@@ -50,7 +50,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Replicate](https://replicate.com/docs) | Run Flux, SDXL, custom models. $5 free credits. | `apiKey` | Yes | Yes |
 | [OpenAI DALL-E](https://platform.openai.com/docs/api-reference/images) | DALL-E 3 for high-quality images. | `apiKey` | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Speech & Audio 🎤
 
@@ -60,7 +60,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [ElevenLabs](https://elevenlabs.io/docs/api-reference) | Voice cloning, TTS. Free tier. | `apiKey` | Yes | Yes |
 | [Deepgram](https://developers.deepgram.com/docs) | Real-time STT with diarization. | `apiKey` | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Vision & Multimodal 👀
 
@@ -70,7 +70,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Google Gemini Vision](https://ai.google.dev/gemini-api/docs/vision) | Multimodal reasoning. | `apiKey` | Yes | Yes |
 | [Hugging Face Inference](https://huggingface.co/docs/inference-endpoints) | Llava, Bakllava for open vision models. Free limited. | `apiKey` | Yes | Unknown |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Embeddings & Vector DB 🧠
 
@@ -80,7 +80,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Cohere Embed](https://docs.cohere.com/docs/embed) | Multilingual embeddings. | `apiKey` | Yes | Yes |
 | [Pinecone](https://docs.pinecone.io/docs/overview) | Vector DB with hybrid search. Free starter. | `apiKey` | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Agents & Tools 🛠️
 
@@ -90,7 +90,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Replicate Agents](https://replicate.com/docs/guides/agents) | Run agentic workflows. | `apiKey` | Yes | Yes |
 | [Voidly Pay](https://voidly.ai/pay) | x402 facilitator + agent payment rail (escrow, streams, subscriptions) with marketplace of 17 paid endpoints. USDC on Base. | `x402` (no apiKey) | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## Other AI ✨
 
@@ -98,7 +98,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 |-----|-------------|------|-------|------|
 | [Hugging Face Hub](https://huggingface.co/docs/hub/en/api) | 1M+ models for tasks like NER, translation. | `apiKey` (opt) | Yes | Yes |
 
-**Back to Index** 👆 👆
+**Back to Index** 👆
 
 ## How to Contribute 🤝
 
