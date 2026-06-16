@@ -89,6 +89,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [OpenAI Assistants](https://platform.openai.com/docs/assistants/overview) | Custom agents with tools/files. | `apiKey` | Yes | Yes |
 | [Replicate Agents](https://replicate.com/docs/guides/agents) | Run agentic workflows. | `apiKey` | Yes | Yes |
 | [Voidly Pay](https://voidly.ai/pay) | x402 facilitator + agent payment rail (escrow, streams, subscriptions) with marketplace of 17 paid endpoints. USDC on Base. | `x402` (no apiKey) | Yes | Yes |
+| [Superhighway](https://superhighway.walls.sh) | Web search API for agents: search, news, images, scrape, research endpoints. MCP server `npx -y superhighway-mcp`. Free API key or pay-per-call USDC via x402. | `apiKey` / `x402` | Yes | Yes |
 
 **Back to Index** 👆
 
