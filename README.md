@@ -126,6 +126,11 @@ This repo is [MIT licensed](LICENSE).
 
 ---
 
+## Hosted / Freemium APIs
+
+- [APIClaw](https://apiclaw.biz/) - Flat-rate OpenAI-compatible AI gateway for Claude, GPT, Gemini, Kimi, Qwen, DeepSeek, and GLM; 50 free trial requests and plans from $19/month by request volume. Cursor and Claude Code ready.
+- 
+
 ## Other Files & Folders 📁
 
 ### Folder Structure
