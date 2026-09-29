@@ -90,6 +90,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Replicate Agents](https://replicate.com/docs/guides/agents) | Run agentic workflows. | `apiKey` | Yes | Yes |
 | [Voidly Pay](https://voidly.ai/pay) | x402 facilitator + agent payment rail (escrow, streams, subscriptions) with marketplace of 17 paid endpoints. USDC on Base. | `x402` (no apiKey) | Yes | Yes |
 | [Superhighway](https://superhighway.walls.sh) | Web search API for agents: search, news, images, scrape, research endpoints. MCP server `npx -y superhighway-mcp`. Free API key or pay-per-call USDC via x402. | `apiKey` / `x402` | Yes | Yes |
+| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | Base mainnet x402 research report ($2 USDC) + OpenAI-compatible chat ($0.001) APIs with free /.well-known/x402 discovery. External Base USDC payers only. | `x402` (no apiKey) | Yes | Unknown |
 | [GoldBean](https://goldbean-api.xyz) | 53 Chinese AI tools via x402 micropayments — 19 OCR types, ERNIE LLM, DeepSeek-R1, TTS, ASR, vision, NLP, translation, search, image/video gen, HelixFold. OpenAI-compatible. MCP server `npx -y goldbean-mcp`. Free tier: 50 calls/day. | `x402` (no apiKey) | Yes | Yes |
 
 **Back to Index** 👆
