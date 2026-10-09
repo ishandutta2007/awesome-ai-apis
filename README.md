@@ -49,6 +49,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Stability AI](https://platform.stability.ai/docs/api-reference) | Stable Diffusion 3, Flux for text-to-image. Free tier. | `apiKey` | Yes | Yes |
 | [Replicate](https://replicate.com/docs) | Run Flux, SDXL, custom models. $5 free credits. | `apiKey` | Yes | Yes |
 | [OpenAI DALL-E](https://platform.openai.com/docs/api-reference/images) | DALL-E 3 for high-quality images. | `apiKey` | Yes | Yes |
+| [LivePair AI](https://livepairai.com/v1/agent/openapi.json) | 80+ image & video models. x402 pay-per-call or prepaid keys. | `apiKey` | Yes | Yes |
 
 **Back to Index** 👆
 
