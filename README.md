@@ -49,6 +49,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Stability AI](https://platform.stability.ai/docs/api-reference) | Stable Diffusion 3, Flux for text-to-image. Free tier. | `apiKey` | Yes | Yes |
 | [Replicate](https://replicate.com/docs) | Run Flux, SDXL, custom models. $5 free credits. | `apiKey` | Yes | Yes |
 | [OpenAI DALL-E](https://platform.openai.com/docs/api-reference/images) | DALL-E 3 for high-quality images. | `apiKey` | Yes | Yes |
+| [Revana](https://revana.si/docs) | One pay-as-you-go API for 120+ image and video models (Nano Banana, GPT Image, Seedance 2.5, Veo 3.1, Kling), routed to the cheapest provider with fallback. | `apiKey` | Yes | Unknown |
 
 **Back to Index** 👆
 
