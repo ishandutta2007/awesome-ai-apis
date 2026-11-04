@@ -39,6 +39,7 @@ This directory focuses exclusively on **AI/ML APIs** including LLMs, image gener
 | [Together AI](https://docs.together.ai/docs) | 300+ open models (Qwen, DeepSeek). Free credits. | `apiKey` | Yes | Yes |
 | [DeepInfra](https://deepinfra.com/docs) | Affordable hosting for Llama, Mistral. Pay-per-use. | `apiKey` | Yes | Yes |
 | [CoderPlan](https://coderplan.ai) | Unified LLM API gateway for Claude, GPT, Gemini, DeepSeek, Grok. OpenAI-compatible. Pay-per-use with Alipay/WeChat. | `apiKey` | Yes | Yes |
+| [CodeI Lab](https://www.codeilab.com) | Third-party GPT API gateway for coding agents: GPT-6 Astra/Sol, GPT-6.1 Sol/Terra and GPT-5.6 Sol/Terra over OpenAI or Claude protocols, with discounted credit and one-command setup for Claude Code, Codex CLI or OpenCode. Paid plans from $3/week; no free tier. | `apiKey` | Yes | Unknown |
 
 **Back to Index** 👆
 
