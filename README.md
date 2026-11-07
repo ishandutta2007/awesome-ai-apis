@@ -72,6 +72,7 @@ The market exhibits a distinct **dual dynamic**: it is **highly concentrated at 
 | [Groq](https://console.groq.com/docs/api-reference) | ~$3.5B Valuation (~$500M ARR scale) | Ultra-fast LPU inference for Llama, Mixtral, Gemma. | Starting at $0.05/1M input, $0.08/1M output tokens (Llama 3.1 8B) | Free forever plan: 30 RPM, up to 30,000 TPM, and 100,000–500,000 TPD (model-dependent) | `apiKey` | Yes | Yes |
 | [DeepInfra](https://deepinfra.com/docs) | ~$50M–$100M Est. Valuation | Affordable hosting for Llama, Mistral, Qwen. Pay-per-use. | Starting at $0.03/1M input, $0.05/1M output tokens (Llama 3.1 8B) | $1.80 free trial credits on new account sign-up and verification; no monthly subscription | `apiKey` | Yes | Yes |
 | [CoderPlan](https://coderplan.ai) | Bootstrapped / Seed Scale | Unified LLM API gateway for Claude, GPT, Gemini, DeepSeek, Grok. OpenAI-compatible. Pay-per-use with Alipay/WeChat. | Non-expiring prepaid packages starting at $7.14 for $50 credit balance | One-time signup promotional test credits for initial evaluation; no recurring free tier | `apiKey` | Yes | Yes |
+| [WebWright](https://webwright.ai) | OpenAI-compatible API serving the Wren R1 model; input $0.40 and output $1.60 per 1M tokens. | `apiKey` | Yes | Unknown |
 
 **Back to Index** 👆
 
