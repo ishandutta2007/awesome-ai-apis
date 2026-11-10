@@ -85,6 +85,7 @@ The market exhibits a distinct **dual dynamic**: it is **highly concentrated at 
 | [OpenAI DALL-E](https://platform.openai.com/docs/api-reference/images) | ~$850B+ Valuation (~$50B+ ARR) | DALL-E 3 & GPT Image models for high-quality visual generation. | Starting at $0.040/image (standard 1024×1024) / $0.080/image (HD quality) | Pay-as-you-go ($5 min deposit); no recurring free tier credits | `apiKey` | Yes | Yes |
 | [Replicate](https://replicate.com/docs) | ~$3B Valuation (~$100M ARR) | Run Flux, SDXL, custom models via cloud GPUs. | Hardware compute starting at $0.00025/sec (CPU) / $0.001525/sec (GPU), or ~$0.003–$0.04/image (Flux) | Limited free trial predictions in web playground/demo mode (throttled at 1 req/sec, 6 RPM max); no recurring free tier | `apiKey` | Yes | Yes |
 | [Stability AI](https://platform.stability.ai/docs/api-reference) | ~$1B Valuation | Stable Diffusion 3, Flux for text-to-image and inpainting. | Starting at $0.03/image (3 credits) for SD 3.5 Large / $0.02 for edits | 25 free credits ($0.25 value, ~8–12 standard generations) upon signup; no recurring monthly quota | `apiKey` | Yes | Yes |
+| [Imagera API](https://imagera.ai/developers) | Early-stage (undisclosed) | One REST API and key for many image models (text to image, editing), plus video, voice and music; OpenAPI spec and a remote MCP server. | Per request, by model (see [developers page](https://imagera.ai/developers)) | None | `apiKey` | Yes | Unknown |
 
 **Back to Index** 👆
 
