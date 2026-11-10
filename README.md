@@ -73,6 +73,7 @@ The market exhibits a distinct **dual dynamic**: it is **highly concentrated at 
 | [DeepInfra](https://deepinfra.com/docs) | ~$50M–$100M Est. Valuation | Affordable hosting for Llama, Mistral, Qwen. Pay-per-use. | Starting at $0.03/1M input, $0.05/1M output tokens (Llama 3.1 8B) | $1.80 free trial credits on new account sign-up and verification; no monthly subscription | `apiKey` | Yes | Yes |
 | [CoderPlan](https://coderplan.ai) | Bootstrapped / Seed Scale | Unified LLM API gateway for Claude, GPT, Gemini, DeepSeek, Grok. OpenAI-compatible. Pay-per-use with Alipay/WeChat. | Non-expiring prepaid packages starting at $7.14 for $50 credit balance | One-time signup promotional test credits for initial evaluation; no recurring free tier | `apiKey` | Yes | Yes |
 | [WebWright](https://webwright.ai) | Early-Stage / Seed | OpenAI-compatible API serving the Wren R1 model family with tool use & audio transcription. | $0.40/1M input, $1.60/1M output tokens ($0.10/1M cache tokens); Hobby plan $9/month | 4-day free trial (up to 1M input tokens) on signup; converts to Hobby tier | `apiKey` | Yes | Unknown |
+| [Imagera LLM API](https://imagera.ai/llm-api) | Early-stage (undisclosed) | OpenAI-compatible endpoint for 320+ language models from 48 labs on one key, with streaming. | Per token, by model ([public price list](https://api.imagera.ai/llm/v1/models)) | None | `apiKey` | Yes | Unknown |
 
 **Back to Index** 👆
 
